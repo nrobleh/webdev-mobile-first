@@ -20,7 +20,7 @@ header h1 a:hover {
   padding: 10px;
 }
 nav li a:hover {
-  color: #7e8aa2;
+  color: #e1e5ec;
 }
 nav ul {
   padding-left: 0;
@@ -31,7 +31,7 @@ nav ul li {
   padding-left: 10px;
   padding-right: 10px;
   border: none;
-  border-left: 1px solid #7e8aa2;
+  border-left: 1px solid #ffffff;
 }
 nav li:first-child {
   border-left: none;
